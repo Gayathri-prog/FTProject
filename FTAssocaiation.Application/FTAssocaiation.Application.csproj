@@ -9,6 +9,11 @@
   <ItemGroup>
     <Folder Include="Common\" />
     <Folder Include="DTOs\" />
+    <Folder Include="Features\Members\" />
+    <Folder Include="Features\Accounts\" />
+    <Folder Include="Features\Events\" />
+    <Folder Include="Features\Complaints\" />
+    <Folder Include="Features\Communications\" />
     <Folder Include="Interfaces\" />
     <Folder Include="Services\" />
   </ItemGroup>
