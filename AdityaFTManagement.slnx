@@ -1,7 +1,3 @@
 <Solution>
-  <Folder Name="/FTAssociation.Infrastructure/" />
-  <Folder Name="/Solution Items/">
-    <File Path=".gitignore" />
-  </Folder>
   <Project Path="FTAssociation.Web/FTAssociation.Web.csproj" />
 </Solution>
