@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="FTAssocaiation.Application/FTAssocaiation.Application.csproj" Id="93139684-f87f-4e9d-b664-ea5fa933f28f" />
+  <Project Path="FTAssocaiation.Domain/FTAssocaiation.Domain.csproj" Id="f4fa486e-ffdf-4331-9538-69cc8a473177" />
+  <Project Path="FTAssocaiation.Infrastructure/FTAssocaiation.Infrastructure.csproj" Id="38720a6d-7286-44cc-82af-2bacbc420645" />
   <Project Path="FTAssociation.Web/FTAssociation.Web.csproj" />
 </Solution>
