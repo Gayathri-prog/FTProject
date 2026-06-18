@@ -7,8 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Common\" />
-    <Folder Include="DTOs\" />
+    <Folder Include="DTOs\Auth\" />
+    <Folder Include="DTOs\Member\" />
+    <Folder Include="DTOs\Association\" />
+    <Folder Include="DTOs\Expense\" />
+    <Folder Include="DTOs\Dashboard\" />
+    <Folder Include="DTOs\Payment\" />
     <Folder Include="Features\Members\" />
     <Folder Include="Features\Accounts\" />
     <Folder Include="Features\Events\" />
